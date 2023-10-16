@@ -18,7 +18,5 @@ Este é um projeto para demonstrar o uso do MediaPipe para rastrear as mãos e c
 
 ## Uso
 
-Execute o script principal para iniciar o rastreamento das mãos:]
-
-    ```bash
+Execute o script principal para iniciar o rastreamento das mãos:
     python main.py
