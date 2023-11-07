@@ -1,4 +1,4 @@
-# Rastreamento de Mãos - Números Binários
+# Rastreamento de Mãos - Contagem Números Binários
 
 Este é um projeto para demonstrar o uso do MediaPipe para rastrear as mãos e calcular um número binário com base na posição dos dedos.
 
