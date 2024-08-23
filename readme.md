@@ -2,6 +2,18 @@
 
 Este é um projeto para demonstrar o uso do MediaPipe para rastrear as mãos e calcular um número binário com base na posição dos dedos.
 
+Algumas imagens do projeto, mostrando parcialmente algumas telas:
+
+![1](imagens/1.png)
+
+![2](imagens/2.png)
+
+![3](imagens/3.png)
+
+![4](imagens/4.png)
+
+![5](imagens/4.png)
+
 ## Instalação
 
 1. Certifique-se de ter o Python instalado em seu sistema.
@@ -21,16 +33,3 @@ Este é um projeto para demonstrar o uso do MediaPipe para rastrear as mãos e c
 Execute o script principal para iniciar o rastreamento das mãos:
    ```bash
     python main.py
-
-
-Algumas imagens do projeto, mostrando parcialmente algumas telas:
-
-![1](imagens/1.png)
-
-![2](imagens/2.png)
-
-![3](imagens/3.png)
-
-![4](imagens/4.png)
-
-![5](imagens/4.png)
