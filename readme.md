@@ -12,7 +12,7 @@ Algumas imagens do projeto, mostrando parcialmente algumas telas:
 
 ![4](imagens/4.png)
 
-![5](imagens/4.png)
+![5](imagens/5.png)
 
 ## Instalação
 
